@@ -7,4 +7,4 @@ class ChatTests(TestCase):
     client_class = Client
 
     def test(self):
-        self.assertEqual(1 + 1, 2)
+        self.assertEqual(1 + 2, 3)
